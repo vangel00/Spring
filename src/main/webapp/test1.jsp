@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>test1.mvc</h2>
+	여기가 보이면 성공입니다.
 </body>
 </html>
